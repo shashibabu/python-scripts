@@ -1,1 +1,3 @@
-This job3
+#!/bin/bash
+
+echo "This job3"
