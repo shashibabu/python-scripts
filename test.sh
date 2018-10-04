@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this is a git jenkins integration"
+echo this is a git jenkins integration"
