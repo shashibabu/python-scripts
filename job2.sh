@@ -1,2 +1,2 @@
 #!/bin/bash
-This is demo for job2
+echo "This is demo for job2"
